@@ -1,3 +1,4 @@
-/Data
-/Data_proc
+Data/
+/Data_proc/
 RNN_model_*
+__pycache__/
